@@ -35,3 +35,7 @@ Ubuntu main light led on
 test6----20190621
 env.c -> env.cgi button send order
 main.c -> down order control M0 light LED1
+!!!!bug!!!! can control but pop a message save cgi-file
+
+test7----20190624
+
